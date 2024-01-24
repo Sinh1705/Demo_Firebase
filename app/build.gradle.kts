@@ -53,4 +53,6 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
     //push notification
     implementation("com.google.firebase:firebase-messaging")
+    //login
+    implementation("com.google.firebase:firebase-auth")
 }

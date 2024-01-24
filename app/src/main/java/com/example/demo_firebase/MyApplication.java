@@ -6,6 +6,7 @@ import android.app.NotificationManager;
 import android.os.Build;
 
 public class MyApplication extends Application {
+    //đăng ký channel_id cho my application
     public static final String CHANNEL_ID = "push_notification_id";
 
     @Override
