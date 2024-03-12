@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
             //khi có trường hợp lỗi
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
-
+                //demo trên nhánh 2
             }
 
         });
